@@ -90,7 +90,7 @@ A small set of highly specialised or niche jobs could not be matched at the chos
 
 ### Score Distribution & Skill Coverage
 
-![Score distribution and jobs per skill](1779369121133_image.png)
+![Score distribution and jobs per skill](graphs.png)
 
 **Rows per Score Bucket (left):** Most pairs land in the 0.4–0.6 range, with 0.5–0.6 being the most common (~45,000 pairs). Scores above 0.7 are rare — job titles and course descriptions don't tend to share much vocabulary, so high similarity is hard to achieve. The ~10,000 pairs below 0.4 are there by design, to avoid leaving niche jobs with no recommendations at all.
 
@@ -100,7 +100,7 @@ A small set of highly specialised or niche jobs could not be matched at the chos
 
 ### Courses per Job (Top 20)
 
-![Courses per job top 20](1779369125023_image.png)
+![Courses per job top 20](top20.png)
 
 The top 20 jobs by matched courses are mostly **ICT roles**, which reflects how technology-heavy the course catalogue is. **Sociologist** and **ICT system architect** top the list at ~32–33 courses each. The range is pretty narrow across the top 20 (28–33), so there's no single job that's dramatically better served than others. It's also worth noting that non-ICT jobs like _social work researcher_, _political party agent_, and _corporate social responsibility manager_ make the list — likely because soft-skill and management courses cover a wide enough range to match them too.
 
